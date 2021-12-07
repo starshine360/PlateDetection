@@ -15,4 +15,4 @@
 
 ## Usage
 
-在当前目录下新建目录：`data/test/` 和 `data/temp/`. 将需检测的图片放置在目录 `data/test/` 下，然后修改 `main.py` 中 `img_name` 的值为该图片的文件名。键入 `python main.py`，等待程序运行完毕。检测结果将存于目录 `data/result/` 中。
+在当前目录下新建目录：`data/test/`, `data/temp/` 和 `data/result/`. 将需检测的图片放置在目录 `data/test/` 下，然后修改 `main.py` 中 `img_name` 的值为该图片的文件名。键入 `python main.py`，等待程序运行完毕。检测结果将存于目录 `data/result/` 中。
